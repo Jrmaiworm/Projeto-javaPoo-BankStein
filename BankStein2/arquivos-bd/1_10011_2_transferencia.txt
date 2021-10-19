@@ -1,0 +1,29 @@
+- - - - - - - - - - -  TRANSFERÊNCIA REALIZADA  - - - - - - - - - - -  
+
+- - - - - - - - - - -  DADOS DO REMETENTE  - - - - - - - - - - -  
+CPF: 1
+Agência : 10011
+Conta: 2
+- - - - - - - - - - -  DADOS DO DESTINATÁRIO - - - - - - - - - - -  
+CPF: 1
+Agência: 10011
+Conta: 2
+- - - - - - - - - - - - - - - - - - - - - - - 
+Valor: R$100.0
+Operação realizada em: 19/10/2021 11:47:39
+- - - - - - - - - - -  FIM DA TRANSFERÊNCIA  - - - - - - - - - - -  
+
+- - - - - - - - - - -  TRANSFERÊNCIA RECEBIDA  - - - - - - - - - - -  
+
+- - - - - - - - - - -   DADOS DO REMETENTE  - - - - - - - - - - -  
+CPF: 1
+Agência : 10011
+Conta: 2
+- - - - - - - - - - -   DADOS DO DESTINATÁRIO  - - - - - - - - - - -  
+CPF: 1
+Agência: 10011
+Conta: 2
+- - - - - - - - - - - - - - - - - - - - - - - 
+Valor: R$100.0
+Operação realizada em: 19/10/2021 11:47:39
+*************** FIM DA TRANSFERÊNCIA ***************

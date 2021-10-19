@@ -1,0 +1,56 @@
+ - - - - - - - - - - - SAQUE - - - - - - - - - - - 
+CPF: 1
+Agência: 10011
+Conta: 2
+Valor: R$100.0
+Operação realizada em: 19/10/2021 10:07:39
+- - - - - - - - - - - - - - - - - - - - - - - 
+
+- - - - - - - - - - -  DEPÓSITO - - - - - - - - - - - 
+CPF: 1
+Agência: 10011
+Conta: 2
+Valor: R$100.0
+Operação realizada em: 19/10/2021 10:09:40
+- - - - - - - - - - - - - - - - - - - - - - - 
+
+ - - - - - - - - - - - SAQUE - - - - - - - - - - - 
+CPF: 1
+Agência: 10011
+Conta: 2
+Valor: R$100.0
+Operação realizada em: 19/10/2021 11:26:19
+- - - - - - - - - - - - - - - - - - - - - - - 
+
+- - - - - - - - - - -  DEPÓSITO - - - - - - - - - - - 
+CPF: 1
+Agência: 10011
+Conta: 2
+Valor: R$100.0
+Operação realizada em: 19/10/2021 11:26:35
+- - - - - - - - - - - - - - - - - - - - - - - 
+
+ - - - - - - - - - - - SAQUE - - - - - - - - - - - 
+CPF: 1
+Agência: 10011
+Conta: 2
+Valor: R$100.0
+Operação realizada em: 19/10/2021 11:42:45
+- - - - - - - - - - - - - - - - - - - - - - - 
+
+- - - - - - - - - - -  DEPÓSITO - - - - - - - - - - - 
+CPF: 1
+Agência: 10011
+Conta: 2
+Valor: R$100.0
+Operação realizada em: 19/10/2021 11:46:53
+- - - - - - - - - - - - - - - - - - - - - - - 
+
+ - - - - - - - - - - - SAQUE - - - - - - - - - - - 
+CPF: 1
+Agência: 10011
+Conta: 2
+Valor: R$200.0
+Operação realizada em: 19/10/2021 17:16:09
+- - - - - - - - - - - - - - - - - - - - - - - 
+

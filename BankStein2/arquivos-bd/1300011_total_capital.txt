@@ -1,0 +1,12 @@
+* TOTAL DE CAPITAL ARMAZENADO *
+
+O total de capital armazenado no banco é de: R$113472.0
+Operação realizada em: 19/10/2021 09:01:16
+***
+
+* TOTAL DE CAPITAL ARMAZENADO *
+
+O total de capital armazenado no banco é de: R$113472.0
+Operação realizada em: 19/10/2021 09:24:16
+***
+
